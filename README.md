@@ -1,5 +1,4 @@
 # Banana Leaf Disease Detection
-Detection and Classification of Banana Leaf Diseases
 
 There are 5 files in this repo:
 * [Scraper]: scrape data from Google Image

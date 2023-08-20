@@ -1,7 +1,5 @@
 # Banana Leaf Disease Detection
 
-Dataset source: https://data.mendeley.com/datasets/9tb7k297ff/1
-
 There are 5 files in this repo:
 * [Scraper]: scrape data from Google Image
 * [Read data](banana_leaf_disease_read_data.ipynb) : prepare tabular data from a collection of image folders

@@ -13,5 +13,4 @@ There are 5 files in this repo:
 Required files for inference:
 * test_dir: directory of test set
 * weights: https://drive.google.com/drive/folders/1J-SLPrb10UUSOIXrCImffRmj5SFylMMu?usp=sharing
-* class_int_to_name object: https://drive.google.com/drive/folders/1-0yqZqt7xboQ0n2zbmf6YbbkiBZdit3b?usp=sharing
 
